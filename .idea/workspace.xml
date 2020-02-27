@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="599e84fa-1319-47ec-a7f1-3c6dc96460f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YN0uqQmAw66a4tncOdO2Tu3FYn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/playGround" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\01.2020\02.개인공부\02.Vue.js 시작하기 - Age of Vue.js\learn-vue-js-master\playGround" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\01.2020\02.개인공부\02.Vue.js 시작하기 - Age of Vue.js\learn-vue-js-master" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.axios.html">
+    <configuration default="true" type="JavascriptDebugType" uri="http://localhost:63342/learn-vue-js-master/playGround/web-dev.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="axios.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-vue-js-master/playGround/axios.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="component-same-level.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-vue-js-master/playGround/component-same-level.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="event-emit.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-vue-js-master/playGround/event-emit.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="props.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-vue-js-master/playGround/props.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="router.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-vue-js-master/playGround/router.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.axios.html" />
+        <item itemvalue="JavaScript Debug.router.html" />
+        <item itemvalue="JavaScript Debug.component-same-level.html" />
+        <item itemvalue="JavaScript Debug.event-emit.html" />
+        <item itemvalue="JavaScript Debug.props.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="599e84fa-1319-47ec-a7f1-3c6dc96460f8" name="Default Changelist" comment="" />
+      <created>1582767969549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582767969549</updated>
+      <workItem from="1582767971908" duration="227000" />
+      <workItem from="1582768209348" duration="1109000" />
+      <workItem from="1582769573640" duration="354000" />
+      <workItem from="1582769965254" duration="6414000" />
+      <workItem from="1582786249844" duration="3391000" />
+      <workItem from="1582791481153" duration="4065000" />
+      <workItem from="1582805241636" duration="1879000" />
+      <workItem from="1582816760827" duration="1479000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2334" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582770673946">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2334" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582770673946" />
+    <state x="2660" y="260" key="FileChooserDialogImpl" timestamp="1582770609987">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="260" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582770609987" />
+    <state width="1877" height="189" key="GridCell.Tab.0.bottom" timestamp="1582819557244">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="189" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582819557244" />
+    <state width="1877" height="189" key="GridCell.Tab.0.center" timestamp="1582819557243">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="189" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582819557243" />
+    <state width="1877" height="189" key="GridCell.Tab.0.left" timestamp="1582819557243">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="189" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582819557243" />
+    <state width="1877" height="189" key="GridCell.Tab.0.right" timestamp="1582819557244">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="189" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582819557244" />
+    <state width="1877" height="189" key="GridCell.Tab.1.bottom" timestamp="1582819557244">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="189" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582819557244" />
+    <state width="1877" height="189" key="GridCell.Tab.1.center" timestamp="1582819557244">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="189" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582819557244" />
+    <state width="1877" height="189" key="GridCell.Tab.1.left" timestamp="1582819557244">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="189" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582819557244" />
+    <state width="1877" height="189" key="GridCell.Tab.1.right" timestamp="1582819557244">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="189" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582819557244" />
+    <state width="1877" height="189" key="GridCell.Tab.2.bottom" timestamp="1582819557244">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="189" key="GridCell.Tab.2.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582819557244" />
+    <state width="1877" height="189" key="GridCell.Tab.2.center" timestamp="1582819557244">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="189" key="GridCell.Tab.2.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582819557244" />
+    <state width="1877" height="189" key="GridCell.Tab.2.left" timestamp="1582819557244">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="189" key="GridCell.Tab.2.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582819557244" />
+    <state width="1877" height="189" key="GridCell.Tab.2.right" timestamp="1582819557244">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="189" key="GridCell.Tab.2.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582819557244" />
+    <state x="2381" y="161" key="SettingsEditor" timestamp="1582805212482">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="161" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582805212482" />
+  </component>
+</project>
