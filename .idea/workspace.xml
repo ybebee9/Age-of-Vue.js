@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="599e84fa-1319-47ec-a7f1-3c6dc96460f8" name="Default Changelist" comment="" />
+    <list default="true" id="599e84fa-1319-47ec-a7f1-3c6dc96460f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playGround/data-binding.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playGround/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playGround/watch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YN0uqQmAw66a4tncOdO2Tu3FYn" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,9 +32,10 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/playGround" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -42,32 +52,32 @@
       <recent name="D:\01.2020\02.개인공부\02.Vue.js 시작하기 - Age of Vue.js\learn-vue-js-master" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.axios.html">
+  <component name="RunManager" selected="JavaScript Debug.watch.html">
     <configuration default="true" type="JavascriptDebugType" uri="http://localhost:63342/learn-vue-js-master/playGround/web-dev.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="axios.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-vue-js-master/playGround/axios.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="component-same-level.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-vue-js-master/playGround/component-same-level.html" useBuiltInWebServerPort="true">
+    <configuration name="data-binding.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-vue-js-master/playGround/data-binding.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="event-emit.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-vue-js-master/playGround/event-emit.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="props.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-vue-js-master/playGround/props.html" useBuiltInWebServerPort="true">
+    <configuration name="methods.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-vue-js-master/playGround/methods.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="router.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-vue-js-master/playGround/router.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="watch.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learn-vue-js-master/playGround/watch.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.watch.html" />
+        <item itemvalue="JavaScript Debug.methods.html" />
+        <item itemvalue="JavaScript Debug.data-binding.html" />
         <item itemvalue="JavaScript Debug.axios.html" />
         <item itemvalue="JavaScript Debug.router.html" />
-        <item itemvalue="JavaScript Debug.component-same-level.html" />
-        <item itemvalue="JavaScript Debug.event-emit.html" />
-        <item itemvalue="JavaScript Debug.props.html" />
       </list>
     </recent_temporary>
   </component>
@@ -89,6 +99,7 @@
       <workItem from="1582791481153" duration="4065000" />
       <workItem from="1582805241636" duration="1879000" />
       <workItem from="1582816760827" duration="1479000" />
+      <workItem from="1582867811826" duration="5009000" />
     </task>
     <servers />
   </component>
@@ -104,54 +115,54 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="260" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582770609987" />
-    <state width="1877" height="189" key="GridCell.Tab.0.bottom" timestamp="1582819557244">
+    <state width="1877" height="189" key="GridCell.Tab.0.bottom" timestamp="1582884158270">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="189" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582819557244" />
-    <state width="1877" height="189" key="GridCell.Tab.0.center" timestamp="1582819557243">
+    <state width="1877" height="189" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582884158270" />
+    <state width="1877" height="189" key="GridCell.Tab.0.center" timestamp="1582884158269">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="189" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582819557243" />
-    <state width="1877" height="189" key="GridCell.Tab.0.left" timestamp="1582819557243">
+    <state width="1877" height="189" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582884158269" />
+    <state width="1877" height="189" key="GridCell.Tab.0.left" timestamp="1582884158269">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="189" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582819557243" />
-    <state width="1877" height="189" key="GridCell.Tab.0.right" timestamp="1582819557244">
+    <state width="1877" height="189" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582884158269" />
+    <state width="1877" height="189" key="GridCell.Tab.0.right" timestamp="1582884158269">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="189" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582819557244" />
-    <state width="1877" height="189" key="GridCell.Tab.1.bottom" timestamp="1582819557244">
+    <state width="1877" height="189" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582884158269" />
+    <state width="1877" height="189" key="GridCell.Tab.1.bottom" timestamp="1582884158093">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="189" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582819557244" />
-    <state width="1877" height="189" key="GridCell.Tab.1.center" timestamp="1582819557244">
+    <state width="1877" height="189" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582884158093" />
+    <state width="1877" height="189" key="GridCell.Tab.1.center" timestamp="1582884158093">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="189" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582819557244" />
-    <state width="1877" height="189" key="GridCell.Tab.1.left" timestamp="1582819557244">
+    <state width="1877" height="189" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582884158093" />
+    <state width="1877" height="189" key="GridCell.Tab.1.left" timestamp="1582884158093">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="189" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582819557244" />
-    <state width="1877" height="189" key="GridCell.Tab.1.right" timestamp="1582819557244">
+    <state width="1877" height="189" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582884158093" />
+    <state width="1877" height="189" key="GridCell.Tab.1.right" timestamp="1582884158093">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="189" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582819557244" />
-    <state width="1877" height="189" key="GridCell.Tab.2.bottom" timestamp="1582819557244">
+    <state width="1877" height="189" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582884158093" />
+    <state width="1877" height="189" key="GridCell.Tab.2.bottom" timestamp="1582884158094">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="189" key="GridCell.Tab.2.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582819557244" />
-    <state width="1877" height="189" key="GridCell.Tab.2.center" timestamp="1582819557244">
+    <state width="1877" height="189" key="GridCell.Tab.2.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582884158094" />
+    <state width="1877" height="189" key="GridCell.Tab.2.center" timestamp="1582884158094">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="189" key="GridCell.Tab.2.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582819557244" />
-    <state width="1877" height="189" key="GridCell.Tab.2.left" timestamp="1582819557244">
+    <state width="1877" height="189" key="GridCell.Tab.2.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582884158094" />
+    <state width="1877" height="189" key="GridCell.Tab.2.left" timestamp="1582884158093">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="189" key="GridCell.Tab.2.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582819557244" />
-    <state width="1877" height="189" key="GridCell.Tab.2.right" timestamp="1582819557244">
+    <state width="1877" height="189" key="GridCell.Tab.2.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582884158093" />
+    <state width="1877" height="189" key="GridCell.Tab.2.right" timestamp="1582884158094">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="189" key="GridCell.Tab.2.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582819557244" />
+    <state width="1877" height="189" key="GridCell.Tab.2.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582884158094" />
     <state x="2381" y="161" key="SettingsEditor" timestamp="1582805212482">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
