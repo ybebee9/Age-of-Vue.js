@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <div id="app">
+        {{ num }}
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script>
+        new Vue({
+            el: '#app',
+            data: {
+                num: 10
+            },
+            // validation 이라던지 간단한 연산에 좋을것같음
+            computed: {
+                doubleNum: function() {
+                    return this.num * 2;
+                }
+            },
+            // 무거운 동작들. 특히 데이터 요청에 적합하다고 생각이 됨..
+            watch: {
+                num: function(newValue, oldValue) {
+                    this.fetchUserByNumber(newValue);
+                }
+            },
+            methods: {
+                fetchUserByNumber: function(num) {
+                    console.log(num);
+                    //axios.get(num);
+                }
+            }
+        });
+    </script>
+</body>
+</html>
